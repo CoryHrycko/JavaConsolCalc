@@ -19,7 +19,7 @@ public class Main {
 
 
         double result = i1 + i2;
-        System.out.println(result);
+        System.out.println("answer "+result);
 
 
 
